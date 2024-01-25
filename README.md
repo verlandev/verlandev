@@ -111,9 +111,9 @@ I think that's more than fair. -->
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/verlandev">
+<!--   <a href="https://github.com/verlandev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=verlandev&theme=radical&border=7F3FBF&background=0D1117" alt="Verlan's GitHub streak" height="200px" width="49%"/>
-  </a>
+  </a> -->
   <a href="https://github.com/verlandev">
     <img alt="Verlan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=verlandev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="45%"/>
   </a>
