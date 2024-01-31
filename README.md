@@ -43,7 +43,7 @@
 </p> -->
 
 <h2 align="center" id="languages">
-  - Programming languages and tools -
+  - Programming languages and tools - 
 </h2>
 <br>
 <p align="center">
