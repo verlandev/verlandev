@@ -85,7 +85,7 @@ Hi! My name is Beatriz, but since I started working in digital world (for more t
 
 Since I discovered all the things we can do online, 🤯 I wanted to take it a step further and decided to dedicate myself to programming. 🤓 It's been over a year and I can say that I do not regret my decision.
 
-So, as someone always in pursuit of more efficient methods to achieve goals, communicate, and help people with innovative ideas and creative messages, I've discovered that this field offers a plethora of sources for enjoyment, creativity, and challenges. 🚀 
+So, as someone always in pursuit of more efficient methods to achieve goals, communicate, and help people with innovative ideas and creative messages, I've discovered that this field offers a plethora of sources for enjoyment, creativity, and challenges. 🚀
 
 Moreover, I've always been the kind of person who, if I didn't know how to do something, would make it a point to learn how. 😁 That's why programming is the perfect match for me.
 
