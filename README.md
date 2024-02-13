@@ -32,7 +32,7 @@
 </p>
 <br>
 <p align=center>
-  Passionate developer with expertise in front-end technologies like <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>, as well as back-end technologies like <code>Node.js</code>, <code>MongoDB</code>, and <code>Express.js</code>. My journey in the digital world is not just my profession, but my passion. I'm committed to learning every day and living the life I desire through this fascinating career. 
+  Passionate developer with expertise in front-end technologies like <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>, as well as back-end technologies like <code>Node.js</code>, <code>MongoDB</code>, and <code>Express.js</code>. My journey in the digital world is not just my profession, but my passion. I'm committed to learning every day and living the life I desire through this fascinating career.
 </p>
 <br>
 
