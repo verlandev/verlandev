@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=Linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a href="mailto:bemart93@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=DC143C&logo=Gmail&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=DC143C&logo=Gmail&logoColor=white&style=for-the-badge"> 
   </a>
 </p>
 
