@@ -87,7 +87,7 @@ Since I discovered all the things we can do online, 🤯 I wanted to take it a s
 
 So, as someone always in pursuit of more efficient methods to achieve goals, communicate, and help people with innovative ideas and creative messages, I've discovered that this field offers a plethora of sources for enjoyment, creativity, and challenges. 🚀
 
-Moreover, I've always been the kind of person who, if I didn't know how to do something, would make it a point to learn how. 😁 That's why programming is the perfect match for me. 
+Moreover, I've always been the kind of person who, if I didn't know how to do something, would make it a point to learn how. 😁 That's why programming is the perfect match for me.
 
 <br>
 
