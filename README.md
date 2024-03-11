@@ -102,7 +102,7 @@ Moreover, I've always been the kind of person who, if I didn't know how to do so
 
 Time, travelling, joy... 
 
-These are few things that can sometimes feel just out of reach amidst the hustle of work, the weight of expectations, and the complexity of life worrie's. 
+These are few things that can sometimes feel just out of reach amidst the hustle of work, the weight of expectations, and the complexity of life worrie's.
 
 I'm on a quest for a fulfilling life, one where continuous learning and personal growth harmonize with moments of joy and adventure. I believe in a balanced life where work and personal aspirations complement each other. It's simple, yet profound: **I'm looking for a good life enriched by constant learning**. 
 
